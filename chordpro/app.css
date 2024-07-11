@@ -1,0 +1,13 @@
+*{
+    box-sizing: border-box;
+
+}
+
+body {
+    margin-top: 1rem;
+}
+.chord { position: absolute
+}
+
+.chord .inner {  position: relative;
+   top: -1em;}
